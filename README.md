@@ -1,7 +1,5 @@
 # This repository contains starter code for Portfolio Website in ReactJS.
 
-### Images of The Portfolio Website:
-
 ### Resources Used in This Project
 
 Design in : https://www.figma.com/ <br />
